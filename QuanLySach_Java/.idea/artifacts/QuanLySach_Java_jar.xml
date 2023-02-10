@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="QuanLySach_Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuanLySach_Java_jar</output-path>
+    <root id="archive" name="QuanLySach_Java.jar">
+      <element id="module-output" name="QuanLySach_Java" />
+    </root>
+  </artifact>
+</component>
